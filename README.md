@@ -66,12 +66,12 @@
 - LCD Screen ~14.50€
 
 ## Research
-Github
-Θερμική άνεση
-Ποιότητα αέρα
-Εφαργμογές νέφους για καταγραφή μετρήσεων και οπτικοποίηση των δεδομένων
-Παρόμοιες εφαρμογές που έχουν υλοποιηθεί
-Μικρο-ελεγκτές
-Σύνδεση Arduino και Raspbierry
-Αισθητήρες και επεκτάσεις λειτουργικότητας (Ethernet Shield, Solid state relay, Temperature & Humidity Sensor, Grove - Air quality sensor, Dust Sensor, LCD Screen
-Αυτοματισμοί (relay)
+- Github
+- Θερμική άνεση
+- Ποιότητα αέρα
+- Εφαργμογές νέφους για καταγραφή μετρήσεων και οπτικοποίηση των δεδομένων
+- Παρόμοιες εφαρμογές που έχουν υλοποιηθεί
+- Μικρο-ελεγκτές
+- Σύνδεση Arduino και Raspbierry
+- Αισθητήρες και επεκτάσεις λειτουργικότητας (Ethernet Shield, Solid state relay, Temperature & Humidity Sensor, Grove - Air quality sensor, Dust Sensor, LCD Screen
+- Αυτοματισμοί (relay)
